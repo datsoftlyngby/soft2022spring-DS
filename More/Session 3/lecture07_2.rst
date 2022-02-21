@@ -1,4 +1,4 @@
-Lecture 4
+Lecture 7 Part 2
 =========
 
 Data Types
@@ -94,13 +94,7 @@ Once installed, we can run our calculations using SIMD on a modern processor.
 
 NumPy is implemented in highly efficient low-level C code.
 
-A small test:
-
-.. raw:: html
-
-   <iframe src="_static/numpy-power.html" width="700px" height="500px"></iframe>
-
-As you can see we get a 10x increase on a 4 core system.
+See the python notepook in the code section
 
 Finding Data
 ------------
@@ -123,17 +117,7 @@ Finally, you can explore the data sets at `Scikit-learn <https://scikit-learn.or
 Importing Data
 --------------
 
-Let's try to import a data set and do some initial analysis.
-
-.. raw:: html
-
-   <iframe src="_static/titanic.html" width="700px" height="500px"></iframe>
-
-We get a nice report of the data set.
-
-.. raw:: html
-
-   <iframe src="_static/titanic-report.html" width=700px" height="500px"></iframe>
+Import the Titanic data set and set up the Pandas Profiling tool - prepare a commentary on what the data is saying
 
 Preparing Data
 --------------
