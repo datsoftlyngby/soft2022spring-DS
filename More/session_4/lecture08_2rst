@@ -1,0 +1,12 @@
+Lecture  8 part 2
+=================
+
+This week's lecture is based on this chapter:
+
+Géron, Aurélien. "Hands-On Machine Learning with Scikit-Learn and TensorFlow." 2017. Chapter 2.
+
+"A computer is said to learn from experience *E* with respect to some task *T* and some performance measure *P*, if its performance on *T* 
+as measured by *P* improves with experience *E*" - Tom Mitchell
+
+This walk through a classification project will help us see if the process and the tools support this definition of what learning is in 
+computing terms.
