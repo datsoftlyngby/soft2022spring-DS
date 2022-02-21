@@ -1,11 +1,9 @@
-Lecture 5
-=========
+Lecture 7 Part 3
+================
 
 Let's start out easy by visualizing some data.
 
-.. raw:: html
-
-   <iframe src="_static/visualization.html" width="700px" height="500px"></iframe>
+see the Notebook on visualisation in the CODE FOLDER
 
 Here are some examples of visualizing the Titanic data sets:
 
