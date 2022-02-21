@@ -1,5 +1,5 @@
-Lecture 3
-=========
+Lecture 7 Part 1
+================
 
 Finding and using references
 ----------------------------
