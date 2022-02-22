@@ -1,4 +1,4 @@
-Lecture 6
+Lecture 8 part 1
 =========
 
 Why do we care about statistics?
@@ -9,7 +9,7 @@ our data. These insights will help us build better models and avoid
 embarrassing mistakes.
 
 ![xkcd on wedding cakes and
-statistics.](_static/wedding-cakes.png){.align-centeralign-center}
+statistics.](wedding-cakes.png){.align-centeralign-center}
 
 Overview of Statistics and Probability
 --------------------------------------
@@ -17,7 +17,7 @@ Overview of Statistics and Probability
 Let\'s first observe how the various terms relate to one another.
 
 ![Relation between Statistics and
-Probability](_static/population_vs_sample.png){.align-centeralign-center}
+Probability](population_vs_sample.png){.align-centeralign-center}
 
 ::: {.glossary}
 
