@@ -7,12 +7,9 @@ Why do we care about statistics?
 The main reason for our interest in statistics is to gain insights into our data.
 These insights will help us build better models and avoid embarrassing mistakes.
 
-.. figure:: _static/wedding-cakes.png
-    :align: center
-    :alt: xkcd on wedding cakes and statistics
-    :figclass: align-center
+![XKCD Weddings](_static/wedding-cakes.png)
+    
 
-    xkcd on wedding cakes and statistics.
 
 
 Overview of Statistics and Probability
