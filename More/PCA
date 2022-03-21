@@ -1,0 +1,29 @@
+Principle Component Analysis
+============================
+
+Dimenensionality reduction can help reduce the time taken to train our data set. This is the role of PCA.
+
+Principal Component Analysis (PCA) is a technique used for dimensionality reduction. When working with machine learning we often have data sets containing hundreds, thousands or even more dimensions. This can be a challenge, and this is where PCA enters the picture.
+
+There are two main uses of dimensionality reduction: the first is in visualization. We can only really display two dimensions on screens and paper, so any visualization of high-dimensional data need to be fitted to two dimensions.
+
+The other use of dimensionality reduction is in compression, or rather reduction. We might sometime choose to combine a number of features when training a model to reduce data size and computation time.
+
+PCA is one of the most widely applied techniques for dimensionality reduction.
+
+PCA Tutorial:
+
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+
+
+This week’s exercise task is based on this chapter:
+
+Géron, Aurélien. “Hands-On Machine Learning with Scikit-Learn and TensorFlow.” 2017. Chapter 2.
+
+“A computer is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T as measured by P improves with experience E” - Tom Mitchell
+
+This walk through a classification project will help us see if the process and the tools support this definition of what learning is in computing terms.
+
+
+
