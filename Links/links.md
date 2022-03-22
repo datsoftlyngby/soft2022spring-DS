@@ -6,6 +6,8 @@
 
 [Bayes' Theorem explainer](https://towardsdatascience.com/simple-guide-to-solving-bayes-theorem-problems-a594edc3e245)
 
+[Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
+
 
 
 
