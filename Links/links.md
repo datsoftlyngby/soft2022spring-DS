@@ -8,6 +8,8 @@
 
 [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
 
+[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
+
 
 
 
