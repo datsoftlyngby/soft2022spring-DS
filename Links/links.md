@@ -10,6 +10,8 @@
 
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
+[RealPython.com K Nearest Neighbours Example](https://realpython.com/knn-python/)
+
 
 
 
