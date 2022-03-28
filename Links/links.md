@@ -12,6 +12,8 @@
 
 [RealPython.com K Nearest Neighbours Example](https://realpython.com/knn-python/)
 
+[Towards Data Science SVM tutorial](https://medium.com/towards-data-science/understand-support-vector-machines-6cc9e4a15e7e)
+
 
 
 
