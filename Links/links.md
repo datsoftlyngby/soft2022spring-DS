@@ -10,6 +10,12 @@
 
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
+[RealPython.com K Nearest Neighbours Example](https://realpython.com/knn-python/)
+
+[Towards Data Science SVM tutorial](https://medium.com/towards-data-science/understand-support-vector-machines-6cc9e4a15e7e)
+
+[Towards Data Science KNN tutorial](https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a)
+
 
 
 
