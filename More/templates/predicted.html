@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang=“en”>
+   <head>
+        <title> Predicted </title>
+    </head>
+    
+    <body>       
+            <br>
+            <br>
+            <div>       
+            <h4>Your data: {{ content }} belongs to cluster <strong>{{ prediction }}</strong>
+            <br>
+            <br>     
+                <div id='button'>
+                  <form action="/predict" method="GET">
+                     <input type=submit name=submit value='make another prediction'>
+                  </form>
+                </div>
+                
+                  or
+
+                <div id='button'>
+                  <form action="/bye" method="GET">
+                     <input type=submit name=submit value='---- say good bye ----'>
+                  </form>
+                </div>
+             </h4>
+             </div>   
+    </body>
+</html>
+

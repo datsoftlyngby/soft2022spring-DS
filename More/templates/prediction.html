@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang=“en”>
+   <head>
+        <title> Prediction </title>
+    </head>
+    
+    <body>      
+            <h1>
+                {% if name %}
+                    Hello, {{name}}!
+                {% else %}
+                    Hi, there!
+                {% endif %}
+            </h1> 
+            
+            <h2>Make Prediction About a Cluster</h2>  
+                <br>
+                <form method="POST" action="/predicted" id=pform>
+                    <div>
+                      Enter x1 <input type="text" name="x1"> <br>
+                      Enter x2 <input type="text" name="x2"> <br>
+                      <input type="submit" name="submit" value="Submit">
+                    </div>
+                </form>
+            </h2>
+    </body>
+</html>
